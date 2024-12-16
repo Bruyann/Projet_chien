@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/XC16_24FJ512GU410/production/pic24_blink_led.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>32768</length>
+      <used>540</used>
+      <free>32228</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>527616</length>
+      <used>21132</used>
+      <free>506484</free>
+    </memory>
+  </executable>
+</project>
